@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-hob-da/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use El Hob Da](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
