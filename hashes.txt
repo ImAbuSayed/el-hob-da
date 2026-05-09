@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Hob Da
+
+This log tracks the cryptographic history and versioning for the song **El Hob Da** (el-hob-da).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:07:26.111736 | `v1` | `501ea698fb0419a6786ae4771bac5f20a32a400a7da5e5f3992d7f37f450fefd` | `4fd8ba4c282e015d3191467988c929f260d14822c8fe2bd912e0cc84baa2ab40` | `2026-05-09_el-hob-da-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
